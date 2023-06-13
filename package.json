@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@xaviabot/fb-downloader": "^1.0.10",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dl-fb": "^1.0.9",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "facebook-video-downloader": "^1.0.1",
+    "fb-downloader": "^1.0.3",
+    "fb-downloader-scrapper": "^1.0.3",
+    "fb-downloads": "^1.0.7",
+    "fb-video-downloader": "^1.0.3",
+    "fbdl-core": "^1.0.2",
+    "fbvideos": "^1.0.2",
+    "instagram-url-direct": "^1.0.13",
+    "nodemon": "^2.0.22",
+    "snapsave-downloader": "^6.9.5",
+    "tools-fb": "^15.0.10",
+    "video-downloader": "^1.0.4",
+    "vihangayt-fbdl": "^1.0.2"
+  }
+}
